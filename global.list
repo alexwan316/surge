@@ -141,6 +141,7 @@ DOMAIN,www.googleapis.com
 DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googleapis.com
 
 #Cloudflare
 DOMAIN-SUFFIX,argotunnel.com

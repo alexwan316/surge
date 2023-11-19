@@ -793,3 +793,4 @@ DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,isagood.day
+IP-CIDR,101.32.104.4/32,DIRECT

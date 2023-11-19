@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtube.googleapis.com
+DOMAIN-SUFFIX,youtubei.googleapis.com
 
 #Netflix
 DOMAIN-SUFFIX,netflix.com

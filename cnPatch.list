@@ -798,3 +798,4 @@ IP-CIDR,43.156.222.165/32,no-resolve
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,tanx.com
 IP-CIDR,101.32.118.25/32,no-resolve
+DOMAIN-SUFFIX,servicewechat.com
